@@ -259,8 +259,8 @@ async def run_event_flow(username, key, state):
                         "func": "wish-send",
                         "data": {
                             "AuthenType": 0,
-                            "ProvinceID": 20,
-                            "ProvinceName": "Đồng Tháp",
+                            "ProvinceID": 65,
+                            "ProvinceName": "Khác",
                             "Content": "Thắp sáng bản đồ Việt Nam cùng Audition!"
                         }
                     }
